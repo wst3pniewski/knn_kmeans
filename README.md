@@ -1,1 +1,1 @@
-# KNN, KMEANS in python
+# KNN, KMEANS algorithms from scratch in python
